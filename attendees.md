@@ -45,3 +45,7 @@ Software developer at MY Consulting Group. 10 years experience in graphic design
 
 ### Joe Matthews
 Father, friend & programmer.  More than 10 years of IT related experience and 4+ years of full stack experience using Ruby, Rails, Bootstrap, jQuery & PostgreSQL. Currently focusing on learning and applying front-end JavaScript frameworks. Looking to join a motivated team that develops software using agile principles.
+
+## Breeanna Henson
+
+I'm a recent graduate of Francis Tuttle's Back-End/Web Development program and Front-End Development/Web Design. I've designed websites since my teen years and finally have a diploma to show that I know what I am doing. I've mostly dealt with HTML, CSS, JavaScript, and PHP but I am always working on learning more. To stop learning is to accept defeat. I'm mostly looking to just break in and find a job to start getting experience. You can find me at [Bombthe.net](http://www.bombthe.net/) and [LinkedIn](https://www.linkedin.com/in/breeannahenson24/)
